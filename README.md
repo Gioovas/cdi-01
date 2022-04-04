@@ -1,6 +1,7 @@
-# About me 
-#hi my name is giovanni
+# Actividad numero 1 "hello"
+#Participantes del trabajo:
 
-#I´m 15 years old 
+Caram Matias 
+y
+Crigna Giovanni
 
-#in my free time i used to play videogames and talk with my friends
